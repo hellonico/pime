@@ -1,0 +1,1 @@
+{:deps {com.pi4j/pi4j-core {:mvn/version "2.3.0"}}}
