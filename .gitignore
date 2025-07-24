@@ -1,3 +1,4 @@
 .cpcache
 .idea/
 pime.iml
+/.clj-kondo/
